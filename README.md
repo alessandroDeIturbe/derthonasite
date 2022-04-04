@@ -17,8 +17,8 @@
 
 👤 **adrytech && alessandroDeIturbe**
 
-* Github: [@adrytech](<https://github.com/adrytech> adrytech)
-* Github: [@alessandroDeIturbe](<https://github.com/adrytech> alessandroDeIturbe)
+* Github: [@adrytech](https://github.com/adrytech)
+* Github: [@alessandroDeIturbe](https://github.com/adrytech)
 
 ## 🤝 Contributing
 
@@ -30,5 +30,6 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2022 [adrytech && alessandroDeIturbe](<https://github.com/adrytech> alessandroDeIturbe).<br />
+Copyright © 2022 [adrytech](<https://github.com/adrytech>).<br />
+Copyright © 2022 [alessandroDeIturbe](<https://github.com/alessandroDeIturbe>).<br />
 This project is [MIT](https://github.com/adrytech/derthonasite/blob/main/LICENSE) licensed.
